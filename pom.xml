@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pro.sky.course2.aliev</groupId>
-	<artifactId>emloyeebook</artifactId>
+	<artifactId>employeebook</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>emloyeebook</name>
+	<name>employeebook</name>
 	<description>Employee Book</description>
 	<properties>
 		<java.version>17</java.version>
